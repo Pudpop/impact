@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"numberrangesummarizer","l":"Main"},{"p":"numberrangesummarizer","l":"NumberRangeSummarizer"},{"p":"numberrangesummarizer","l":"SummarizeIntegerList"},{"p":"numberrangesummarizer","l":"Summarizer"}]
